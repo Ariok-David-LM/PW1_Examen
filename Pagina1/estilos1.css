@@ -1,0 +1,83 @@
+body{
+  background-color: #84B6F4;
+  padding: 15px;
+}
+
+.cabecera{
+  width: 100%;
+  background-color: #DFCAE1;
+}
+
+.tcabecera{
+  width: 100%;
+  text-align: center;
+}
+
+.pie{
+  width: 100%;
+  background-color: #DFCAE1;
+  margin-top: 15px;
+}
+
+.examen{
+  margin-top: 15px;
+  padding: 10px;
+}
+
+.fondoVerde{
+  background-color: #1ABC9C;
+}
+
+.fondoVerde2{
+  background-color: #2ECC71;
+}
+
+.fondoRojo{
+  background-color: #E74C3C;
+}
+
+.fondoMorado{
+  background-color: #9B59B6;
+}
+
+.tabla1{
+  width: 100%;
+  padding: 2px;
+}
+
+.celdas1{
+  width: 20%;
+  border: white 3px solid;
+  font-size: 25px;
+}
+
+.celdas2{
+  width: 80%;
+  border: white 3px solid;
+  text-align: center;
+  font-size: 25px;
+}
+
+.celdas3{
+  width: 35%;
+  border: white 3px solid;
+  font-size: 25px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.celdas4{
+  width: 65%;
+  border: white 3px solid;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.fila1{
+  text-align: center;
+  border: white 3px solid;
+  font-size: 25px;
+  color: white;
+}
